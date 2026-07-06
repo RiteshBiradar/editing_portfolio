@@ -7,7 +7,7 @@ const Footer = () => {
         </p>
         <div className="flex flex-wrap gap-4 text-sm text-white">
           <a href="mailto:riteshbiradar3434@gmail.com" className="transition hover:text-cyan-300">
-            hello@yourname.com
+            riteshbiradar3434@gmail.com
           </a>
           <a href="https://www.instagram.com/_riteshbiradar_/" target="_blank" rel="noreferrer" className="transition hover:text-cyan-300">
             Instagram
